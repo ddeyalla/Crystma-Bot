@@ -1,2 +1,3 @@
 # Crystma-Bot
-Cryptocurrency telegram bot
+<h1>WORK-IN-PROGRESS<h1>
+A Telegram bot for cryptocurrencies.
