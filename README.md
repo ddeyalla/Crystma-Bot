@@ -1,6 +1,6 @@
 # Crystma-Bot
 
-A Telegram bot for cryptocurrencies.
+A Telegram bot for cryptocurrencies and Stock Market.
 
 ## WORK-IN-PROGRESS
 1) Shows cryptocurrency prices and details in INR
